@@ -1,16 +1,32 @@
-### Hi there 👋
+<h3>👋 Hello, Devs! </h3>
+<hr>
 
-<!--
-**Debora-Carvalho/Debora-Carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Me chamo Débora Carvalho, tenho 20 anos e moro em São Paulo - SP. Sou iniciante no Universo da programação e estou cursando Desenvolvimento de Software Multiplataforma (DSM, para os íntimos) pela Fatec ZL, o que tem me feito me apaixonar ainda mais pela área de T.I. Sou formada também em Gestão de RH e Técnica em Administração. Aspirante em Design Gráfico, apaixonada por felinos e pela cor rosa (sempre tento encaixa-la em algum projeto).</p>
 
-Here are some ideas to get you started:
+<img src="https://media1.tenor.com/m/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif" width="300" height="300" align="middle">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>💻Tecnologias e Ferramentas</h3>
+<hr>
+
+<p>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/> <img loading="lazy"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" width="60" height="60"/>
+</p>
+
+<p>
+<br>🎓Atualmente, estou aprendendo programação em JAVA e HTML.
+<br>🎹Sou tecladista e só me concentro com música.
+<br>🍫🍟 Chocolates e batata frita me deixam muito feliz (este suborno é super válido).
+<br>📫Você pode conversar comigo através do Email, Instagram ou LinkedIn (respondo rapidinho, juro). Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
+</p>
+
+<h3>Contatos</h3>
+<hr>
+
+<p>
+<div>
+<a href="https://instagram.com/seu-deboravicarvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "deboravolc2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/debora-vieira-carvalho-45a478205" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+</div>
+</p>
