@@ -3,8 +3,6 @@
 
 <p>Me chamo Débora Carvalho, tenho 20 anos e moro em São Paulo - SP. Sou iniciante no Universo da programação e estou cursando Desenvolvimento de Software Multiplataforma (DSM, para os íntimos) pela Fatec ZL, o que tem me feito me apaixonar ainda mais pela área de T.I. Sou formada também em Gestão de RH e Técnica em Administração. Aspirante em Design Gráfico, apaixonada por felinos e pela cor rosa (sempre tento encaixa-la em algum projeto).</p>
 
-<img src="https://media1.tenor.com/m/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif" width="300" height="300" align="middle">
-
 
 <h2>💻Tecnologias e Ferramentas</h2>
 <hr>
