@@ -41,7 +41,7 @@
 
 
 <p>
-<br>🎓Atualmente, estou aprendendo programação em JAVA e linguagens de Desenvolvimento Web (HTML, CSS e Javascript).
+<br>🎓Atualmente, estou aprendendo programação em Java, Python para Data Science e linguagens de Desenvolvimento Web (HTML, CSS e Javascript).
 <br>🎹Sou tecladista e só me concentro com música.
 <br>🍫🍟 Chocolates e batata frita me deixam muito feliz (este suborno é super válido).
 <br>📫Você pode conversar comigo através do Email, Instagram ou LinkedIn (respondo rapidinho, juro). Fique a vontade para conhecer meus projetos já desenvolvidos, disponíveis aqui nos repositórios.
